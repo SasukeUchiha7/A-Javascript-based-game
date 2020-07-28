@@ -3,7 +3,7 @@
 This is a simple dice game build on javascript.
 
 <p align=center>
-    <img src="ss.jpg">
+    <img src="ss.jpg" width="70%" height="70%">
 </p>
 
 ## Build ups
