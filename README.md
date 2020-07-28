@@ -1,4 +1,4 @@
-# A-Javascript-based-game
+## A-Javascript-based-game
 
 This is a simple dice game build on javascript.
 
@@ -6,7 +6,7 @@ This is a simple dice game build on javascript.
     <img src="ss.jpg">
 </p>
 
-# Build ups
+## Build ups
 
 This application is very simple to understand, though a little bit of Javascript knowledge is required.
 _I highly recommend you to look for **DOM (Document Object Model)** in javascript to understand code better._
